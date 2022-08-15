@@ -20,6 +20,15 @@ how to use:
 - put echo_eng.v1.00.iso on psp or load in emulator and play game.
 
 
+NOTE:
+-----------
+Both archives contain the same patch file, but target a different source .iso
+use the [A3CA9117] tagged patch file if your adventure player .iso matches
+the CRC32 value, othervise use the standard patch file that targets the more
+commonly available .iso with a CRC32 of: 44636A6C.
+
+
+
 changelog
 -------------------
 v1.00 - echo_eng.v1.00.xdelta
