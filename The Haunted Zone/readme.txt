@@ -1,7 +1,7 @@
 Another one bites the dust...
 
 Full english translation and standalone conversion patch for:
-	Echo Night: the First Voyage
+	The Haunted Zone
 
 Staff:
 
@@ -12,12 +12,12 @@ Staff:
 
 how to use:
 -----------
-- get your copy of AdventurePlayer iso (CRC32: 44636A6C)
+- get your copy of AdventurePlayer iso (CRC32: 44636A6C or A3CA9117)
 - name the iso to ULJS-00011.iso
-- put ULJS-00011.iso into the same folder with patchme.bat, xdelta.exe and echo_eng.v1.00.xdelta
+- put ULJS-00011.iso into the same folder with patchme.bat, xdelta.exe and the .xdelta file
 - run patchme.bat
-- run the sfv file to verify that the patching was succesful. (patched iso CRC32 should be 11E9B3A0)
-- put echo_eng.v1.00.iso on psp or load in emulator and play game.
+- run the sfv file to verify that the patching was succesful. (patched iso CRC32 should be 2E641FE2)
+- put haunted_zone_eng.v1.00.iso on psp or load in emulator and play game.
 
 
 NOTE:
@@ -31,5 +31,6 @@ commonly available .iso with a CRC32 of: 44636A6C.
 
 changelog
 -------------------
-v1.00 - echo_eng.v1.00.xdelta
+v1.00 - haunted_zone_eng.v1.00_A3CA9117.xdelta
+      - haunted_zone_eng.v1.00_44636A6C.xdelta
 	- initial release
