@@ -17,7 +17,7 @@ how to use:
 - put ULJM-05477.iso into the same folder with patchme.bat, xdelta.exe and gfos.II.eng.v1.02.xdelta
 - run patchme.bat
 - run check_result.sfv to verify that the patching was succesful. (patched iso CRC32 should be C7944E4E)
-- put gfos_II_eng.v1.02.iso on psp or load in emulator and play game.
+- put gfos.II.eng.v1.02.iso on psp or load in emulator and play game.
 
 
 changelog
