@@ -14,7 +14,7 @@ how to use:
 -----------
 - get your copy of girlfriend of steel 2nd portable iso (CRC32: D4AA9284)
 - name the iso to ULJM-05477.iso
-- put ULJM-05477.iso into the same folder with patchme.bat, xdelta.exe and gfos_II_eng.v1.02.xdelta
+- put ULJM-05477.iso into the same folder with patchme.bat, xdelta.exe and gfos.II.eng.v1.02.xdelta
 - run patchme.bat
 - run check_result.sfv to verify that the patching was succesful. (patched iso CRC32 should be C7944E4E)
 - put gfos_II_eng.v1.02.iso on psp or load in emulator and play game.
