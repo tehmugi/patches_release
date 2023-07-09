@@ -7,8 +7,8 @@ psp
 --------------
 source:		relase:							version:	release date:
 -----		-----							-----		-----
-ULJM-05456	Evangelion - Girlfriend of Steel -Portable-		v1.00		04.06.2023
-									- v1.01		- 09.07.2023
+ULJM-05456	Evangelion - Girlfriend of Steel -Portable-		v1.01		09.07.2023
+									- v1.00		- 04.06.2023
 
 ULJM-05477	Evangelion - Girlfriend of Steel 2nd -Portable-		v1.02		07.01.2023
 									- v1.01		- 23.12.2017
